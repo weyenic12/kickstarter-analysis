@@ -11,4 +11,6 @@
 * We recommend that theater campaigns will have the best chance for success when launched in the summer months, specifically May. The goal of the campaign should be around $5,000 as those have shown to be the most successful.
 ---
 ## Additional Charts
-[US Plays Data](/US%20Plays%20Data.png)
+* [US Plays Data](/US%20Plays%20Data.png)
+* [US Theater Data](/US%20Theater%20Data.png)
+* [Parent Category Outcomes](/Parent%20Category%20Outcomes.png)
