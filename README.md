@@ -5,7 +5,7 @@
 * Out of the 1393 theater kickstarter campaigns across the world, 839 were successful which equates to 60.2%. While theater campaigns in the US had a success rating of 57.5%.
 * However, plays across the world had a 65% successful rate for their kickstarter campaigns while the US had a 61.4% successful rate.
 * By looking at the 'Outcomes Based on Launch Date' line graph. You can see that theater kickstarter campaigns are the most successful when started in May and through the summer months to August.
-* By looking at the ![Descriptive Statistics](docs/Descriptiv%20Statistics.png) table, we can analyze the statistics between successful and failed kickstarter campaigns by the goal and pledged amounts. As you can see, successful campaigns have an average goal of $5,049 while failed campaigns have an average of $10,554. You can also see the amounts for the money pledged and notice that successful campaigns average $5,602 while failed campaigns average just $559.
+* By looking at the ![Descriptive Statistics](docs/Descriptive-Statistics.png) table, we can analyze the statistics between successful and failed kickstarter campaigns by the goal and pledged amounts. As you can see, successful campaigns have an average goal of $5,049 while failed campaigns have an average of $10,554. You can also see the amounts for the money pledged and notice that successful campaigns average $5,602 while failed campaigns average just $559.
 ---
 ## Recommendations
 * We recommend that theater campaigns will have the best chance for success when launched in the summer months, specifically May. The goal of the campaign should be around $5,000 as those have shown to be the most successful.
